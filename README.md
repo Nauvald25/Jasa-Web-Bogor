@@ -1,6 +1,6 @@
 # Jasa Web Bogor — Cepat, Cakep, & Terjangkau
 
-![Promo Banner](![Promo Banner](./assets/images/promo-banner.png))
+![Promo Banner](./assets/uduhan/file.png)
 
 Website resmi layanan pembuatan website untuk bisnis/UMKM di Bogor. Fokus kami: desain modern, cepat, dan tanpa ribet — dari desain, domain, hosting, hingga optimasi SEO dasar.
 
