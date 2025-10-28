@@ -1,5 +1,7 @@
 # Jasa Web Bogor — Cepat, Cakep, & Terjangkau
 
+![Promo Banner](./assets/images/promo-banner.png)
+
 Website resmi layanan pembuatan website untuk bisnis/UMKM di Bogor. Fokus kami: desain modern, cepat, dan tanpa ribet — dari desain, domain, hosting, hingga optimasi SEO dasar.
 
 **Demo:** https://jasa-web-bogor.netlify.app/
